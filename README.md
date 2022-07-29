@@ -6,9 +6,9 @@ I am a Full-stack Web Developer working with MERN (mongoDB, Express, React Js, n
  
  🔭 I’m planning for a Project **Real-time Video streaming App**.
  
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
+ 🌱 I’m currently learning <img src="https://img.shields.io/badge/-GraphQL-FF00FF?logo=graphql&logoColor=white&style=flat">
  
- :books: I want to learn <img src="https://img.shields.io/badge/-GraphQL-FF00FF?logo=graphql&logoColor=white&style=flat"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
+ :books: I want to learn <img src="https://img.shields.io/badge/-PHP-FF00FF?logo=php&logoColor=4B0082&style=flat"> and <img src="http://img.shields.io/badge/-Docker-6495ED?style=flat&logo=docker&logoColor=white"/>
  
  👯 I’m looking to collaborate for a Full-Stack project **Doc App**.
  

@@ -2,19 +2,15 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
-
-I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+I am a Full-stack Web Developer working with MERN (mongoDB, Express, React Js, node JS)
  
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
+ 🔭 I’m planning for a Project **Real-time Video streaming App**.
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
+ 👯 I’m looking to collaborate for a Full-Stack project **Doc App**.
  
  🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
  

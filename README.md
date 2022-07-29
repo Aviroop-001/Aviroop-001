@@ -2,7 +2,7 @@
 
 ---
 
-I am a Full-stack Web Developer working with MERN (mongoDB, Express, React Js, node JS)
+I am a Full-stack Web Developer working with MERN (mongoDB, Express, React Js, node JS), with profound knowledge in Data Structures and Algorithms
  
  🔭 I’m planning for a Project **Real-time Video streaming App**.
  
@@ -12,12 +12,10 @@ I am a Full-stack Web Developer working with MERN (mongoDB, Express, React Js, n
  
  👯 I’m looking to collaborate for a Full-Stack project **Doc App**.
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
- 
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+ 💬 Ask me about Full-Stack Development, DSA and any Tech-related stuff.
 
 
-![Profile views](https://gpvc.arturio.dev/Aviroop-001)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/Aviroop-001)  <img src="https://img.shields.io/github/followers/Aviroop-001?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
@@ -83,7 +81,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 [website]: https://souravdey777.github.io/Portfolio/
 [twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
 [linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/

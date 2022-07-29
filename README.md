@@ -8,7 +8,7 @@ I am a Full-stack Web Developer working with MERN (mongoDB, Express, React Js, n
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
  
- :books: I want to learn <img src="https://www.pngfind.com/pngs/m/62-627254_i-wanted-to-give-graphql-a-shot-for.png"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
+ :books: I want to learn <img src="https://img.shields.io/badge/-GraphQL-FF00FF?logo=graphql&logoColor=white&style=flat"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
  👯 I’m looking to collaborate for a Full-Stack project **Doc App**.
  

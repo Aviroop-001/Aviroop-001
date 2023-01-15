@@ -48,7 +48,7 @@ I am a Full-stack Web Developer working with MERN (mongoDB, Express, React Js, n
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aviroop-001&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Aviroop-001&show_icons=true&hide_border=true)
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/Aviroop-001)
 
